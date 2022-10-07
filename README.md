@@ -1,4 +1,6 @@
 # Telegram-bot-for-stream-seminar
+**it is not online right now**
+
 Simple implementation of a telegram bot
 
 Bot link: https://t.me/streamseminarbot
